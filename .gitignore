@@ -1,0 +1,14 @@
+/*.cache
+/*.hw
+/*.ip_user_files
+/*.sim
+/*.xpr
+/*.srcs
+/MultiFX-Pedal.*/
+/mem/*
+*.log
+*.jou
+/.Xil
+/build
+/bin
+/.vscode
